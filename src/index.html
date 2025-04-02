@@ -14,8 +14,8 @@
 </head>
 
 <!-- #endregion -->
-
 <body class="page__body">
+  <!-- #region header -->
   <header class="header">
     <div class="top-bar">
       <a href="#" class="top-bar__logo-link">
@@ -38,8 +38,8 @@
       </h1>
     </div>
   </header>
-
-  
+  <!-- #endregion -->
+  <!-- #region menu -->
   <aside class="menu page__menu" id="menu">
       <div class="top-bar menu__top">
         <a href="#" class="top-bar__logo-link">
@@ -79,25 +79,61 @@
         </a>
       </div>
   </aside>
-
-
+  <!-- #endregion -->
+  <!-- region main -->
   <main class="main" id="recommended">
     <section class="recommended">
-      <h2>Recommended</h2>
+      <h2 class="section-title">Recommended</h2>
+      <div class="recomended__products">
+        <article class="product">
+          <img
+            src="./images/product/smart-speaker.png"
+            alt="Smart speaker"
+            class="product__photo"
+          >
+          <h3 class="product__title">Bose portable Smart speaker</h3>
+          <p class="product__category">Smart home</p>
+          <p class="product__price">$ 399.00</p>
+        </article>
+  
+        <article class="product">
+          <img 
+            src="./images/product/bluetooth-speaker.png" 
+            alt="Bluetooth speaker"
+            class="product__photo"
+          >
+          <h3 class="product__title">SoundLink Flex Bluetooth speaker</h3>
+          <p class="product__category">Portable bluetooth</p>
+          <p class="product__price">$ 149.00</p>
+        </article>
+
+        <article class="product">
+          <img
+            src="./images/product/bluetooth-speaker2.png"
+            alt="Bluetooth speaker2"
+            class="product__photo"
+          >
+          <h3 class="product__title">SoundLink Color Bluetooth 
+          speaker II</h3>
+          <p class="product__category">Portable bluetooth</p>
+          <p class="product__price">$ 129.00</p>
+        </article>
+      </div>
     </section>
 
     <section class="categories" id="categories">
-      <h2>Categories</h2>
+      <h2 class="section-title">Browse Bose products by category</h2>
     </section>
 
     <section class="how-to-buy" id="how-to-buy">
-      <h2>How to buy</h2>
+      <h2 class="section-title section-title--align--left">Why buy direct from Bose</h2>
     </section>
 
     <section class="contacts" id="contacts">
-      <h2>Contacts</h2>
+      <h2 class="section-title">Contact us</h2>
     </section>
   </main>
+  <!-- #endregion -->
 </body>
 </html>
 

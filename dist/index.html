@@ -83,6 +83,31 @@
     <main class="main" id="recommended">
       <div class="container">
         <div class="main__content">
+          <!-- #region contacts -->
+          <section class="contacts" id="contacts">
+            <h2 class="section-title">Contact us</h2>
+            <form class="form" action="#" method="get">
+              <input class="form__input" type="text" placeholder="Name">
+              <input class="form__input" type="email" id="email" placeholder="Email">
+              <textarea class="form__message" id="message" placeholder="Message"></textarea>
+              <button class="form__button" type="submit">Send</button>
+            </form>
+            <article class="contacts__wrapper">
+              <div class="contacts__phone">
+                <h3 class="contacts__title">Phone</h3>
+                <p class="contacts__text">+1 234 5555-55-55</p>
+              </div>
+              <div class="contacts__email">
+                <h3 class="contacts__title">Email</h3>
+                <p class="contacts__text">hello@miami.com</p>
+              </div>
+              <div class="contacts__adress">
+                <h3 class="contacts__title">Address</h3>
+                <p class="contacts__text">400 first ave.<br>suite 700<br>Minneapolis, MN 55401</p>               
+              </div>
+            </article>
+          </section>
+          <!-- #endregion -->
           <!-- #region recomended -->
           <section class="recommended">
             <h2 class="section-title">Recommended</h2>
@@ -185,11 +210,7 @@
             </div>
           </section>
           <!-- #endregion -->
-          <!-- #region contacts -->
-          <section class="contacts" id="contacts">
-            <h2 class="section-title">Contact us</h2>
-          </section>
-          <!-- #endregion -->
+        
         </div>
       </div>
     </main>

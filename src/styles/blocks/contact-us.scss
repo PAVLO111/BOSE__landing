@@ -1,0 +1,83 @@
+.contacts {
+  &__wrapper {
+    margin-top: 48px;
+    display: grid;
+    gap: 24px;
+  }
+
+  &__phone, &__email {
+    height: 50px;
+  }
+
+  &__adress {
+    height: 96px;
+  }
+  
+  &__title {
+    margin: 0 0 8px;
+  
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #9FADC2;
+  }
+  
+  &__text {
+    margin: 0;
+    color: #3E3E3E;
+  }
+}
+
+.form {
+  font-family: 'Inter', sans-serif;
+
+  &__input {
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+    width: 280px;
+    height: 48px;
+    padding: 0 16px;
+    border: none;
+    border-radius: 40px;
+    margin-bottom: 16px;
+    background-color: $input-background-color;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7E7E83;
+  }
+  
+  &__message {
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+    width: 280px;
+    height: 148px;
+    padding: 14px 16px;
+    margin-bottom: 32px;
+    border: none;
+    border-radius: 16px;
+    background-color: $input-background-color;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #7E7E83;
+  }
+  
+  &__button {
+    width: 280px;
+    height: 56px;
+    border: 3px solid $main-text-color;
+    border-radius: 40px;
+    color: $main-text-color;
+    background-color: #fff;
+  
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: center;
+  }
+}
+
+

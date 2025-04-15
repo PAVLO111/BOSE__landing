@@ -1,4 +1,4 @@
-4385
+4386
 108C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\push-api.js133860738121444902 0
 67C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles133860726569006335 1
 112C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\utility-types\dist\functional-helpers.d.ts133860738102149290 0
@@ -17,7 +17,7 @@
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions\BE.js133860738108896144 0
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts133860738106814494 0
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\transformer-babel\src\config.js133860738102229992 0
-61C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist133892064637379808 1
+61C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist133892301216389418 1
 60C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src133827290671769358 1
 105C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\helpers\esm\_async_iterator.js133860738110927852 0
 120C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\font-variant-numeric.js133860738116672532 0
@@ -56,13 +56,13 @@
 87C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks\product.scss133880891142838916 0
 91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\detect-libc\README.md133860738098714697 0
 93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\readdirp\esm\index.d.ts133860738099110310 0
-71C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\index.html133885829176094642 0
+71C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\index.html133892299545728859 0
 136C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133860738106586781 0
 82C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\resolve-from133860738096806711 1
 117C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.js133860738104816475 0
 112C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\webtransport.js133860738124069469 0
 141C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133860738105645830 0
-74C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks133885794637551211 1
+74C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks133892068138247690 1
 120C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133860738123795431 0
 94C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\reporter-cli\src133860738105207721 1
 118C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\entities\lib\generated\decode-data-html.d.ts.map133860738106494796 0
@@ -97,7 +97,7 @@
 78C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\chokidar133860738102782669 1
 93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\semver\functions\lte.js133860738103674132 0
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts133860738108400900 0
-78C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\style.scss133885795201248502 0
+78C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\style.scss133892068631497439 0
 115C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\lmdb\node_modules\node-addon-api\package.json133860738107382190 0
 87C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\types\lib133860738100282390 1
 116C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\domhandler\lib\node.d.ts133860738106112491 0
@@ -105,7 +105,7 @@
 92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\domhandler\lib\node.js133860738100391781 0
 93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\semver\functions\cmp.js133860738096806711 0
 80C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\parcel\lib133860738097497524 1
-87C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\BOSE__landing.59712999.js133892064637003440 0
+87C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\BOSE__landing.59712999.js133892301216048049 0
 82C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\domutils\lib133860738109054549 1
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\utils\src\relativeBundlePath.js133860738109360169 0
 112C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\images\categories\Headphones & earbuds - square.png133885183179459301 0
@@ -122,6 +122,8 @@
 91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\node-releases\LICENSE133860738096316150 0
 122C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\helpers\_\_class_private_field_set\package.json133860738114166953 0
 90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks\categories.scss133885881363481591 0
+90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks\contact-us.scss133892300815801586 0
+97C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlparser2\lib\Parser.d.ts133860738106586781 0
 82C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\lightningcss133860738101786443 1
 103C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\helpers\esm\_create_super.js133860738111841033 0
 107C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\helpers\_\_await_async_generator133860738113439760 1
@@ -186,7 +188,7 @@
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\semver\ranges\max-satisfying.js133860738104509297 0
 92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks\utils\mixins.scss133883406555813254 0
 79C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\picomatch133860738101010379 1
-95C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks\utils\variables.scss133880034807066029 0
+95C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\styles\blocks\utils\variables.scss133892202090331071 0
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\cosmiconfig\dist\readFile.d.ts.map133860738107311081 0
 94C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\safe-buffer\package.json133860738096316150 0
 126C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133860738109054549 0
@@ -253,8 +255,6 @@
 106C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\mathml.js133860738119554790 0
 92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\images\icon\icon-phone-call.svg133860747041296874 0
 98C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\transformer-json\lib133860738099853425 1
-109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\autofocus.js133860738107984136 0
-136C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts133860738107802202 0
 87C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@msgpackr-extract133860738137391180 1
 129C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133860738104748114 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\src\images\icon\icon__burger-menu--hover.png133859259315136943 0
@@ -567,7 +567,6 @@
 126C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\dom-serializer\lib\foreignNames.js133860738105786965 0
 83C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\escalade\dist133860738099853425 1
 79C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\term-size133860738100315360 1
-104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\ReporterRunner.js133860738112219142 0
 77C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\timsort133860738099128980 1
 86C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\tslib\tslib.html133860738095908773 0
 84C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\to-regex-range133860738096634239 1
@@ -1396,6 +1395,8 @@
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\clipboard.js133860738110979020 0
 118C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\entities\lib\maps\xml.json133860738106901632 0
 93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\bundler-default133860738106160469 1
+109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\autofocus.js133860738107984136 0
+136C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts133860738107802202 0
 96C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\markdown-ansi\test133860738103220355 1
 96C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\js-yaml\lib\schema\json.js133860738103818223 0
 134C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.js133860738105387568 0
@@ -2097,7 +2098,6 @@
 91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\argparse\CHANGELOG.md133860738101241059 0
 92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\dotenv-expand\tea.yaml133860738100882389 0
 98C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlparser2\lib\index.js.map133860738102861826 0
-97C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlparser2\lib\Parser.d.ts133860738106586781 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlparser2\lib\Parser.d.ts.map133860738103476243 0
 90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\core\spack.d.ts133860738101992351 0
 99C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlparser2\lib\Parser.js.map133860738103939486 0
@@ -2221,7 +2221,7 @@
 97C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlnano\docs\versions.json133860738108654541 0
 102C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\domutils\lib\esm\querying.js.map133860738107517679 0
 106C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\test\fixtures\glob-like133860738107362075 1
-88C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\smart-speaker.79649a55.png133892064635757082 0
+88C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\smart-speaker.79649a55.png133892301215465475 0
 106C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\htmlnano\docs\docs\060-contribute.md133860738109502198 0
 113C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133860738102236434 0
 133C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133860738107127274 0
@@ -2654,7 +2654,7 @@
 108C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\dist\unpacker\features.js133860738116073016 0
 103C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\reporter-cli\src\emoji.js133860738104538698 0
 106C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\dist\unpacker\region.js133860738121521647 0
-91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-burger-menu.967b4397.png133892064636349953 0
+91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-burger-menu.967b4397.png133892301215509830 0
 121C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\features\background-attachment.js133860738108564775 0
 103C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\dist\lib\statuses.js133860738122338098 0
 95C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions133860738124410899 1
@@ -2781,7 +2781,7 @@
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions\NG.js133860738120266552 0
 125C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133860738115120696 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions\NI.js133860738120396015 0
-86C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\sound-waves.8644d27d.svg133892064635757082 0
+86C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\sound-waves.8644d27d.svg133892301215128964 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions\NL.js133860738120413329 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions\NO.js133860738120431683 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\caniuse-lite\data\regions\NR.js133860738120474972 0
@@ -4086,7 +4086,7 @@
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\packager-js\lib\helpers.js133860738104493403 0
 95C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\packager-html\lib133860738102491716 1
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\packager-html\package.json133860738103185149 0
-91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-burger-menu.c4f0a5e9.svg133892064635757082 0
+91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-burger-menu.c4f0a5e9.svg133892301215383905 0
 94C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\packager-css\lib133860738101985040 1
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\packager-css\src\CSSPackager.js133860738102491716 0
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\packager-css\lib\CSSPackager.js133860738102088369 0
@@ -4206,13 +4206,14 @@
 144C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-node-modules133860738107063315 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\BundleGraph.js133860738109054549 0
 99C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\constants.js133860738110023407 0
-98C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Audio sunglasses - wide.a1685ea3.png133892064636607235 0
+98C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Audio sunglasses - wide.a1685ea3.png133892301215519651 0
 109C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133860738110234505 0
 100C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\loadDotEnv.js133860738111184768 0
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\PackagerRunner.js133860738111582834 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\projectPath.js133860738112094529 0
 93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\public133860738112801309 1
 116C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\registerCoreWithSerializer.js133860738112219142 0
+104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\ReporterRunner.js133860738112219142 0
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\RequestTracker.js133860738112392343 0
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\resolveOptions.js133860738112462569 0
 100C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\serializer.js133860738112512389 0
@@ -4236,7 +4237,7 @@
 116C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\requests\ValidationRequest.js133860738113388972 0
 118C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133860738113512766 0
 108C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\public\BundleGroup.js133860738109466978 0
-102C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Headphones & earbuds - wide.904ae973.png133892064636645294 0
+102C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Headphones & earbuds - wide.904ae973.png133892301216048049 0
 115C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\public\MutableBundleGraph.js133860738111426320 0
 104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\public\Symbols.js133860738112801309 0
 103C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\@parcel\core\src\public\Target.js133860738112873191 0
@@ -4355,32 +4356,32 @@
 85C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\.bin\semver.ps1133860738132994350 0
 97C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\.bin\update-browserslist-db133860738132994350 0
 101C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\node_modules\.bin\update-browserslist-db.ps1133860738132994350 0
-91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Audio sunglasses.6d1ce4db.png133892064636331913 0
-92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\bluetooth-speaker.4470a158.png133892064635683497 0
+91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Audio sunglasses.6d1ce4db.png133892301215253832 0
+92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\bluetooth-speaker.4470a158.png133892301215162036 0
 92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\bluetooth-speaker.7efd2da3.png133880863046013252 0
-93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\bluetooth-speaker2.83876b55.png133892064635757082 0
+93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\bluetooth-speaker2.83876b55.png133892301215128964 0
 93C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\bluetooth-speaker2.b7c72959.png133880863045955865 0
-91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\BOSE__landing.59712999.js.map133892064637028776 0
-82C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\favicon.173350fe.jpg133892064635683497 0
+91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\BOSE__landing.59712999.js.map133892301216368076 0
+82C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\favicon.173350fe.jpg133892301215154646 0
 82C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\favicon.c993b718.jpg133827308194327946 0
 91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\header-bg-mobile.0705d381.png133827308197873759 0
-91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\header-bg-mobile.2d58f869.png133892064636470763 0
-104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Headphones & earbuds - square.7580d1f2.png133892064636617015 0
+91C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\header-bg-mobile.2d58f869.png133892301215383905 0
+104C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Headphones & earbuds - square.7580d1f2.png133892301215590173 0
 97C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-burger-menu_hover.1bece239.png133859265396320838 0
-85C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-close.542f69d5.svg133892064635757082 0
+85C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-close.542f69d5.svg133892301215128964 0
 85C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-close.747f5877.png133860756923800282 0
-90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-phone-call.d017b3af.svg133892064635757082 0
+90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon-phone-call.d017b3af.svg133892301215383905 0
 99C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon__burger-menu--hover.16130e7a.png133860765890734835 0
-99C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon__burger-menu--hover.79ff3ee0.svg133892064637332569 0
-80C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.38ec9247.css133892064636331913 0
-84C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.38ec9247.css.map133892064637028776 0
+99C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\icon__burger-menu--hover.79ff3ee0.svg133892301216368076 0
+80C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.38ec9247.css133892301215519651 0
+84C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.38ec9247.css.map133892301216048049 0
 80C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.d7e39a04.css133827308198200497 0
-72C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.html133892064637379808 0
-79C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\logo.71b51fb1.png133892064635683497 0
+72C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\index.html133892301215465475 0
+79C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\logo.71b51fb1.png133892301215154646 0
 79C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Logo.cc3eb18d.png133859371331784055 0
 87C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\phone-number.711d752f.png133827308194256855 0
 88C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\smart-speaker.5f761b63.png133880863046117086 0
 86C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\sound-waves.47f037b6.png133860763568914370 0
 86C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\sound-waves.8961725c.png133827308194327946 0
-92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Speakers - square.b62a80e0.png133892064636470763 0
-90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Speakers - wide.6419a7ae.png133892064636499878 0
+92C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Speakers - square.b62a80e0.png133892301215564645 0
+90C:\Users\admin\projects\HTML_CSS__Advanced\BOSE__landing\dist\Speakers - wide.6419a7ae.png133892301215465475 0
